@@ -81,6 +81,13 @@
 
 ---
 
+### ✦ Dépôts Open-Source & Outillage
+
+- **[undertale-fr-patcher](https://github.com/cronos-neo/undertale-fr-patcher)** : Patcher autonome multiplateforme en **Rust** (`egui`, rendu CPU logiciel via `softbuffer`, xdelta3, vérification d'intégrité SHA-256).
+- **[undertale-fr](https://github.com/cronos-neo/undertale-fr)** : Portail web officiel et vitrine communautaire des traductions françaises d'Undertale Yellow et Red & Yellow.
+
+---
+
 ### ✦ Stack Technique & Ingénierie
 
 - **Systèmes & Backend** : Rust (`tokio`, `axum`, `twilight`), Node.js, REST APIs, WebSockets
