@@ -83,6 +83,7 @@
 
 ### ✦ Dépôts Open-Source & Outillage
 
+- **[cronos.build](https://github.com/cronos-neo/cronos.build)** : Portfolio d'ingénierie sous **Svelte 5** (runes, polices WOFF2 auto-hébergées, zéro latence CDN, assets WebP optimisés).
 - **[undertale-fr-patcher](https://github.com/cronos-neo/undertale-fr-patcher)** : Patcher autonome multiplateforme en **Rust** (`egui`, rendu CPU logiciel via `softbuffer`, xdelta3, vérification d'intégrité SHA-256).
 - **[undertale-fr](https://github.com/cronos-neo/undertale-fr)** : Portail web officiel et vitrine communautaire des traductions françaises d'Undertale Yellow et Red & Yellow.
 
