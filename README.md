@@ -59,7 +59,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><strong><a href="https://studio.zenith.fr">Studio UTy</a></strong></h4>
+      <h4 align="center"><strong><a href="https://studio.zénith.fr">Studio UTy</a></strong></h4>
       <p align="center">
         <a href="https://studio.zénith.fr" target="_blank">
           <img src="https://cronos.build/assets/projects/studio_uty_dashboard.png" alt="Studio UTy" width="100%" />
