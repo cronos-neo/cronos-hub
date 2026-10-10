@@ -61,7 +61,7 @@
     <td width="50%" valign="top">
       <h4 align="center"><strong><a href="https://studio.zenith.fr">Studio UTy</a></strong></h4>
       <p align="center">
-        <a href="https://studio.zenith.fr" target="_blank">
+        <a href="https://studio.zénith.fr" target="_blank">
           <img src="https://cronos.build/assets/projects/studio_uty_dashboard.png" alt="Studio UTy" width="100%" />
         </a>
       </p>
@@ -73,7 +73,7 @@
         <li><strong>Stack</strong> : SvelteKit, TypeScript, SQLite (better-sqlite3).</li>
       </ul>
       <p align="center">
-        <a href="https://studio.zenith.fr"><strong>Voir l'outil Studio UTy →</strong></a>
+        <a href="https://studio.zénith.fr"><strong>Voir l'outil Studio UTy →</strong></a>
       </p>
     </td>
   </tr>
